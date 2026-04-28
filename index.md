@@ -80,7 +80,7 @@ Users can:
 - Manually add, edit, or delete subscriptions
 - Control notification permissions through system settings
 - Remove all locally stored data by clearing app data or uninstalling the app
-s
+
 ---
 
 ## Children’s Privacy
